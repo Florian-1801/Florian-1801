@@ -15,7 +15,7 @@
 <div align="center">
     <h2 align="center">Used Technologies</h2>
     <div align="center">
-        <img src="[https://github.com/devicons/devicon/blob/master/icons/c/lua-original.svg" alt="lua" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/c/lua-original.svg" alt="lua" width="80">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="80">
     </div>
