@@ -15,14 +15,15 @@
 <div align="center">
     <h2 align="center">Used Technologies</h2>
     <div align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="lua" width="80">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="Lua" width="80">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="80">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="Arduino" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="80">
     </div>
     <h2 align="center">Used IDE's</h2>
     <div align="center">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="Intellij" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VsCode" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="Intellij" width="80">
     </div>
 </div>
 <hr>
@@ -32,8 +33,3 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francojimenezcopati&layout=compact&hide=css&theme=radical" alt="Intellij" height="250">
     </p>
 </footer>
-
-------
-
-Credit: [francojimenezcopati](https://github.com/francojimenezcopati)
-Last Edited on: 10/01/2024
