@@ -1,11 +1,11 @@
 <header align="center">
     <h1 align="center">Hi everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
     <h3 align="center">
-        🔭 I'm currently figuring out what to specialize in<br>
-        👨‍🎓 I'm learning Django at the moment<br>
-        💬 Ask me about anything you want<br>
-        📫 How to reach me: fjcopati@gmail.com<br>
-        💼 I had a 4-month internship at the company GIRE S.A.
+        🔭 FiveM developer working on some interesting projects<br>
+<!--         👨‍🎓 Learning <br> -->
+<!--         💬 Fell free to dm me on discord: florian_1801<br> -->
+        📫 How to reach me on discord: florian_1801<br>
+<!--         💼 I had a 4-month internship at the company GIRE S.A. -->
     </h3>
 </header>
 <hr>
